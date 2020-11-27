@@ -6,7 +6,7 @@
     "images": ["./img/pizza/pizza_peperoni_blyuz.jpg","./img/pizza/pizza_peperoni_blyuz_1.jpg"],
     "weight": 296,
     "category": "classical",
-    "images-in":["./img/in/bergader_blue.png","./img/in/mozarella.png","./img/in/peperoni.jpg","./img/in/alfredo.jpg"],
+    "images_in":["./img/in/bergader_blue.png","./img/in/mozarella.png","./img/in/peperoni.jpg","./img/in/alfredo.jpg"],
     "pizza_in":["Бергадер Блю","Моцарелла","Пепперони","Соус Альфредо"] 
   },{
     "url": "pizza_havai",
@@ -15,7 +15,7 @@
     "images": ["./img/pizza/pizza_havai.jpg","./img/pizza/pizza_havai_1.jpg"],
     "weight": 374,
     "category": "classical",
-    "images-in":["./img/in/cheeken.jpg", "./img/in/ananas.png", "./img/in/mozarella.png" ,"./img/in/dominos.png"],
+    "images_in":["./img/in/cheeken.jpg", "./img/in/ananas.png", "./img/in/mozarella.png" ,"./img/in/dominos.png"],
     "pizza_in":["Курица","Ананас","Моцарелла","Соус Domino's"] 
   },{
       "url": "pizza_barbeky",
@@ -24,7 +24,7 @@
       "images": ["./img/pizza/pizza_barbeky.jpg", "./img/pizza/pizza_barbeky_1.jpg"],
       "weight": 374,
       "category": "classical",
-      "images-in":["./img/in/cheeken.jpg", "./img/in/luk.jpg","./img/in/becon.jpg","./img/in/griby.png", "./img/in/mozarella.png" ,"./img/in/barbeky.png"],
+      "images_in":["./img/in/cheeken.jpg", "./img/in/luk.jpg","./img/in/becon.jpg","./img/in/griby.png", "./img/in/mozarella.png" ,"./img/in/barbeky.png"],
       "pizza_in":["Курица","Лук", "Бекон", "Грибы","Моцарелла","Соус Барбекю"] 
     },{
       "url": "pizza_paparazzi",
@@ -33,7 +33,7 @@
       "images": ["./img/pizza/pizza_paparazzi.jpg","./img/pizza/pizza_paparazzi_1.jpg"],
       "weight": 346,
       "category": "firminiye",
-      "images-in":["./img/in/olivki.jpg","./img/in/mozarella.png","./img/in/peperoni.jpg","./img/in/tomato.png","./img/in/alfredo.jpg"],
+      "images_in":["./img/in/olivki.jpg","./img/in/mozarella.png","./img/in/peperoni.jpg","./img/in/tomato.png","./img/in/alfredo.jpg"],
       "pizza_in":["Оливки", "Моцарелла", "Пепперони", "Помидоры", "Соус Альфредо"] 
     },{
       "url": "pizza_carbonara",
@@ -42,7 +42,7 @@
       "images": ["./img/pizza/pizza_carbonara.jpg", "./img/pizza/pizza_carbonara_1.jpg"],
       "weight": 345,
       "category": "firminiye",
-      "images-in":["./img/in/luk.jpg","./img/in/becon.jpg","./img/in/vetchina.jpg", "./img/in/griby.png", "./img/in/mozarella.png", "./img/in/alfredo.jpg"],
+      "images_in":["./img/in/luk.jpg","./img/in/becon.jpg","./img/in/vetchina.jpg", "./img/in/griby.png", "./img/in/mozarella.png", "./img/in/alfredo.jpg"],
       "pizza_in":["Лук", "Бекон", "Ветчина", "Грибы", "Моцарелла","Соус Альфредо"] 
     },{
       "url": "pizza_bavarskaya",
@@ -51,7 +51,7 @@
       "images": ["./img/pizza/pizza_bavarskaya.jpg", "./img/pizza/pizza_bavarskaya_1.jpg"],
       "weight": 348,
       "category": "firminiye",
-      "images-in":["./img/in/parmezan.png", "./img/in/kolbaski.jpg","./img/in/mozarella.png", "./img/in/barbeky.png"],
+      "images_in":["./img/in/parmezan.png", "./img/in/kolbaski.jpg","./img/in/mozarella.png", "./img/in/barbeky.png"],
       "pizza_in":["Пармезан", "Колбаски баварские", "Моцарелла", "Соус Барбекю"] 
     },{
       "url": "pizza_munich_delux",
@@ -60,7 +60,7 @@
       "images": ["./img/pizza/pizza_munich_delux.jpg", "./img/pizza/pizza_munich_delux_1.jpg"],
       "weight": 424,
       "category": "legendy",
-      "images-in":["./img/in/vetchina.jpg", "./img/in/gorchitsa.png", "./img/in/kolbaski.jpg","./img/in/mozarella.png", "./img/in/tomato.png", "./img/in/sosisky.png",  "./img/in/barbeky.png"],
+      "images_in":["./img/in/vetchina.jpg", "./img/in/gorchitsa.png", "./img/in/kolbaski.jpg","./img/in/mozarella.png", "./img/in/tomato.png", "./img/in/sosisky.png",  "./img/in/barbeky.png"],
       "pizza_in":["Ветчина", "Горчица", "Колбаски баварские", "Моцарелла", "Помидоры", "Сосиски белые", "Соус Барбекю"] 
     },{
       "url": "pizza_spicy",
@@ -69,7 +69,7 @@
       "images": ["./img/pizza/pizza_spicy.jpg", "./img/pizza/pizza_spicy_1.jpg"],
       "weight": 380,
       "category": "legendy",
-      "images-in":["./img/in/halapenyo.jpg", "./img/in/becon.jpg", "./img/in/mozarella.png","./img/in/peperoni.jpg","./img/in/tomato.png","./img/in/dominos.png"],
+      "images_in":["./img/in/halapenyo.jpg", "./img/in/becon.jpg", "./img/in/mozarella.png","./img/in/peperoni.jpg","./img/in/tomato.png","./img/in/dominos.png"],
       "pizza_in":["Халапеньо", "Бекон", "Моцарелла", "Пепперони", "Помидоры", "Соус Domino's"] 
     },{
       "url": "pizza_tunets",
@@ -78,7 +78,7 @@
       "images": ["./img/pizza/pizza_tunets.jpg", "./img/pizza/pizza_tunets_1.jpg"],
       "weight": 352,
       "category": "legendy",
-      "images-in":["./img/in/mozarella.png", "./img/in/dominos.png", "./img/in/tunets.jpg"],
+      "images_in":["./img/in/mozarella.png", "./img/in/dominos.png", "./img/in/tunets.jpg"],
       "pizza_in":["Моцарелла", "Соус Domino's", "Тунец"] 
     },{
       "url": "pizza_five_cheese",
@@ -87,7 +87,7 @@
       "images": ["./img/pizza/pizza_five_cheese.jpg", "./img/pizza/pizza_five_cheese_1.jpg"],
       "weight": 338,
       "category": "premium",
-      "images-in":["./img/in/feta.jpg", "./img/in/parmezan.png", "./img/in/bergader_blue.png","./img/in/mozarella.png", "./img/in/alfredo.jpg", "./img/in/chedder.jpg"],
+      "images_in":["./img/in/feta.jpg", "./img/in/parmezan.png", "./img/in/bergader_blue.png","./img/in/mozarella.png", "./img/in/alfredo.jpg", "./img/in/chedder.jpg"],
       "pizza_in":["Фета", "Пармезан", "Бергадер Блю", "Моцарелла", "Соус Альфредо", "Чеддер"] 
     },{
       "url": "pizza_mitzza",
@@ -96,7 +96,7 @@
       "images": ["./img/pizza/pizza_mitzza.jpg", "./img/pizza/pizza_mitzza_1.jpg"],
       "weight": 391,
       "category": "premium",
-      "images-in":["./img/in/parmezan.png", "./img/in/becon.jpg", "./img/in/vetchina.jpg", "./img/in/kolbaski.jpg", "./img/in/mozarella.png", "./img/in/peperoni.jpg", "./img/in/dominos.png" ],
+      "images_in":["./img/in/parmezan.png", "./img/in/becon.jpg", "./img/in/vetchina.jpg", "./img/in/kolbaski.jpg", "./img/in/mozarella.png", "./img/in/peperoni.jpg", "./img/in/dominos.png" ],
       "pizza_in":["Пармезан", "Бекон", "Ветчина", "Колбаски баварские", "Моцарелла", "Пепперони", "Соус Domino's"] 
     },{
       "url": "pizza_ekstravaganza",
@@ -105,7 +105,7 @@
       "images": ["./img/pizza/pizza_ekstravaganza.jpg", "./img/pizza/pizza_ekstravaganza_1.jpg"],
       "weight": 470,
       "category": "premium",
-      "images-in":["./img/in/frikadelki.png", "./img/in/olivki.jpg", "./img/in/luk.jpg", "./img/in/perets.png", "./img/in/vetchina.jpg", "./img/in/griby.png", "./img/in/mozarella.png", "./img/in/peperoni.jpg", "./img/in/dominos.png"],
+      "images_in":["./img/in/frikadelki.png", "./img/in/olivki.jpg", "./img/in/luk.jpg", "./img/in/perets.png", "./img/in/vetchina.jpg", "./img/in/griby.png", "./img/in/mozarella.png", "./img/in/peperoni.jpg", "./img/in/dominos.png"],
       "pizza_in":["Фрикадельки", "Оливки", "Лук", "Болгарский перец", "Ветчина", "Грибы", "Моцарелла", "Пепперони", "Соус Domino's"] 
     }],
 
