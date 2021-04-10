@@ -49,7 +49,7 @@
             "track_url":"https://dl.muzonovs.ru/uploads/files/2018-11/1541696455_1541689025_02-boomerang.mp3"
         }
     ],
-    "albums":{
+    "albums":[{
         "album_name":"Origins",
         "artists":[
             "Imagine Dragons"
@@ -73,5 +73,5 @@
                 "duration":"3:07"
             }
         ]
-    }
+    }]
 }
