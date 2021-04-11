@@ -7,6 +7,7 @@
         ],
         "category":"Pop",
         "album":{
+            "album_id": 1,
             "artist":[{
                 "id":1,
                 "artist_name":"Imagine Dragons"
@@ -53,6 +54,7 @@
         }
     ],
     "albums":[{
+        "album_id": 1,
         "album_name":"Origins",
         "artists":[
             "Imagine Dragons"
