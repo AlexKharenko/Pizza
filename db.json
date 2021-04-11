@@ -77,5 +77,15 @@
                 "duration":"3:07"
             }
         ]
+    }],
+    "playlists":[{
+        "playlist_id": "1",
+        "playlist_title": "First test",
+        "tracks":[1, 2]
+    },
+    {
+        "playlist_id": "2",
+        "playlist_title": "Second test",
+        "tracks":[1, 2]
     }]
 }
