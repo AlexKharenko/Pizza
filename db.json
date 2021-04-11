@@ -2,13 +2,14 @@
     "song_details":{
         "track_id":"1",
         "track_name":"Natural",
-        "artists":[
-            "Imagine Dragons"
-        ],
+        "artists":[{
+                "id":1,
+                "artist_name":"Imagine Dragons"
+            }],
         "category":"Pop",
         "album":{
             "album_id": 1,
-            "artist":[{
+            "artists":[{
                 "id":1,
                 "artist_name":"Imagine Dragons"
             }],
@@ -27,7 +28,7 @@
         {
             "track_id":"1",
             "track_name":"Natural",
-            "artist":[{
+            "artists":[{
                 "id":1,
                 "artist_name":"Imagine Dragons"
             }],
@@ -41,7 +42,7 @@
         {
             "track_id":"2",
             "track_name":"Boomerang",
-            "artist":[{
+            "artists":[{
                 "id":1,
                 "artist_name":"Imagine Dragons"
             }],
@@ -56,23 +57,25 @@
     "albums":[{
         "album_id": 1,
         "album_name":"Origins",
-        "artists":[
-            "Imagine Dragons"
-        ],
+        "artists":[{
+                "id":1,
+                "artist_name":"Imagine Dragons"
+            }],
         "album_cover":"https://upload.wikimedia.org/wikipedia/ru/5/59/Origins_cover_%28Imagine_Dragons%29.jpg",
         "songs_list":[
             {
                 "track_id":"2",
                 "track_name":"Boomerang",
-                "artists":[
-                    "Imagine Dragons"
-                ],
+                "artists":[{
+                "id":1,
+                "artist_name":"Imagine Dragons"
+            }],
                 "duration":"3:07"
             },
             {
                 "track_id":"2",
                 "track_name":"Boomerang",
-                "artist":[{
+                "artists":[{
                     "id":1,
                     "artist_name":"Imagine Dragons"
                 }],
