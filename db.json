@@ -5,6 +5,10 @@
         "artists":[{
                 "artist_id":1,
                 "artist_name":"Imagine Dragons"
+            },
+            {
+                "artist_id":2,
+                "artist_name":"The Chainsmokers"
             }],
         "category":"Pop",
         "album":{
@@ -31,6 +35,10 @@
             "artists":[{
                 "artist_id":1,
                 "artist_name":"Imagine Dragons"
+            },
+            {
+                "artist_id":2,
+                "artist_name":"The Chainsmokers"
             }],
             "category":"Pop",
             "duration":"3:09",
