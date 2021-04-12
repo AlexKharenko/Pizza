@@ -1,4 +1,8 @@
 {
+    "artist_details": {
+        "artist_id":1,
+        "artist_name":"Imagine Dragons",
+    },
     "song_details":{
         "track_id":"1",
         "track_name":"Natural",
